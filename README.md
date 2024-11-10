@@ -15,19 +15,23 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 ***Tools & Data***<br>
 
 * Tools
-  * Tableau
+  * Tableau & Python
 * Data
   | Fields        | Fields        |
   | ------------- | ------------- |
-  | url_inspection_full | url_entity_full |
-  | inspection_results |actions_taken |
-  | infraction_details | inspection_date |
-  | inspection_type | critical_infractions_count |
-  | non_critical_infractions_count | Facility_Name |
-  | Facility_Type | category |
-  | source | actions_taken_satisfactory |
-  | actions_taken_action_req | inspection_date_year_month |
-  | category_clean |
+  | Hours_Studied | Attendance |
+  | Parental_Involvement |Access_to_Resources |
+  | Extracurricular_Activities | Motivation_Level |
+  | Internet_Access | Tutoring_Sessions |
+  | Family_Income | Teacher_Quality |
+  | Physical_Activity | Learning_Disabilities |
+  | Parental_Education_Level | Distance_from_Home |
+  | Gender | Exam_Score |	
+	
+	
+	
+	
+	
 
 \
 ***Execution***<br>
