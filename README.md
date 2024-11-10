@@ -39,7 +39,7 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 * Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
 * Key Performance Indicators (KPIs): grades per hours studied, grades per resource access, grades per internet access, grades per tutoring sessions, grades per learning disability, grades per motivation level, gender
 * Visualization: tables, scatter plots, line chart, histograms
-* Process: used python to find null fields and correlation between variables, used tableau to analyze variables
+* Process: used python to find null fields and correlation between variables, used tableau to analyze variables<br>
 \
 ***Result***<br>
 
