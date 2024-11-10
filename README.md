@@ -62,4 +62,4 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 
 
 > [!Note]
-> [Project Link](https://public.tableau.com/app/profile/mudassar.chaudhry/viz/Externship/TableofContent)
+> [Project Link]([https://public.tableau.com/authoring/StudentPerformanceAnalysis_17311991561780/StudentPerformance#1])
