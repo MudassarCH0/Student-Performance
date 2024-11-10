@@ -37,26 +37,26 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 ***Execution***<br>
 
 * Data Processing: explore data, backup data, clean data, filter data, data visualization mockups
-* Key Performance Indicators (KPIs): infraction count per municipalities and categories, data perentage per municipality, business types per year
-* Visualization: Tables, Bar Chart, Line Chart
-* Process: calculated null count, total municipality count, cotegory count, facility type count, and valuable data count. developed visualizations and presented results to
-  Supernova data scientist
-
+* Key Performance Indicators (KPIs): grades per hours studied, grades per resource access, grades per internet access, grades per tutoring sessions, grades per learning disability, grades per motivation level, gender
+* Visualization: tables, scatter plots, line chart, histograms
+* Process: used python to find null fields and correlation between variables, used tableau to analyze variables
 \
 ***Result***<br>
 
-* Most businesses showed high critical infraction count in 2023
-* After 2023 trend lines showed sharp decline indicating not enough data
-* Wellington-Dufferin-Guelph for food category had less critical infractions than Simcoe. Both of these municipalities had high foot traffic among other municipalities<br><br>
+* Males seem to higher grades compared to females for same motivation level
+* Males used more resources than females
+* Resource access affected overall student performace<br><br>
 
-![image](https://github.com/user-attachments/assets/da2bc497-120f-4a60-9145-4a2f099de4c1)
+![image](https://github.com/user-attachments/assets/801db68d-a6ec-4f26-92a8-b07c6641b548) ![image](https://github.com/user-attachments/assets/55c9eaac-25fc-493c-a775-aed3aeb698f1)
+
+
 
 
 \
 ***Recomnendation***<br>
-* Supernova should pay close attention to businesses with high critical value count
-* Supernova should find more clients in municipalities with lower critical count like Wellington-Dufferin-Guelph for food category
-* Similarly Supernova should find clients in other municipalities for other categories<br><br>
+* School board should investigate why females had lower performance than males
+* Students with learning disability should be provided more resources 
+* School board should introduce more programs to motivate female students<br><br>
 
 
 
