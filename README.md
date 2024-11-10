@@ -10,7 +10,7 @@
 \
 ***Description***<br>
 
-Project involved analyzing data for Board of Directors of a Charter School. Data was analyzed to gain insight about how different factors can affect student's performance and how school board can streamline their operations to improve student performance. Charter schools are government funded organizations and if student performance is not according to standards these schools can lose their funding. 
+Project involved analyzing data for Board of Directors of a Charter School. Data was analyzed to gain insight about how different factors can affect student's performance and how school board can streamline their operations to improve student performance. Charter schools are government funded organizations and if student performance is not according to standards these schools can lose their funding.<br> 
 \
 ***Tools & Data***<br>
 
