@@ -62,4 +62,4 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 
 
 > [!Note]
-> [Project Link]([https://public.tableau.com/authoring/StudentPerformanceAnalysis_17311991561780/StudentPerformance#1])
+> [Project Link](https://public.tableau.com/authoring/StudentPerformanceAnalysis_17311991561780/StudentPerformance#1)
