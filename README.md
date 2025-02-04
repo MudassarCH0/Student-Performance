@@ -46,7 +46,7 @@ Project involved analyzing data for Board of Directors of a Charter School. Data
 
 * Males seem to higher grades compared to females for same motivation level
 * Males used more resources than females
-* Resource access affected overall student performace<br><br>
+* Resource access affected overall student performance<br><br>
 
 ![image](https://github.com/user-attachments/assets/801db68d-a6ec-4f26-92a8-b07c6641b548) ![image](https://github.com/user-attachments/assets/55c9eaac-25fc-493c-a775-aed3aeb698f1)
 
